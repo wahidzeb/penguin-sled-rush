@@ -1,0 +1,42 @@
+{
+  "id": "/penguin-sled-rush/",
+  "name": "Penguin Sled Rush",
+  "short_name": "Sled Rush",
+  "description": "Penguin Sled Rush by Zaib: a free 3D sledding race. Steer Pip the penguin down an icy chute through a snowy harbour town, hit boost pads, launch off ramps, hop logs, dodge snowmen and grab golden fish.",
+  "lang": "en",
+  "start_url": "/penguin-sled-rush/?source=pwa",
+  "scope": "/penguin-sled-rush/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#1f7fe0",
+  "background_color": "#1f7fe0",
+  "categories": [
+    "games"
+  ],
+  "icons": [
+    {
+      "src": "/penguin-sled-rush/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/penguin-sled-rush/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/penguin-sled-rush/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/penguin-sled-rush/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
